@@ -1,3 +1,9 @@
+This is using create-react-app. Please follow the following steps to get this running locally:
+- Please download the zip file here and unzip it.
+- Run npm install from the repos folder on your computer.
+- Once npm install is finished run npm start
+- App should be running on local host
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
